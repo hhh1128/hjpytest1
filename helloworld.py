@@ -10,6 +10,7 @@ def output_graph(x: int, y:int, c: str):
 
 
 if __name__ == "__main__":
+    output_graph(1, 9, "@")
     output_graph(2,3,"*")
     output_graph(4, 7, "0")
     output_graph(2, 3, "+")
