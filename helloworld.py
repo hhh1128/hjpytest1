@@ -13,3 +13,4 @@ if __name__ == "__main__":
     output_graph(2,3,"*")
     output_graph(4, 7, "0")
     output_graph(2, 3, "+")
+    output_graph(3, 2, ".")
